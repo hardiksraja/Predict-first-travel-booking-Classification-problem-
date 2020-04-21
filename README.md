@@ -1,14 +1,15 @@
 # Predict-first-travel-booking-Classification-problem-
 Prediction of first booking by a new user at Airbnb 
 
-### Problem Statement
+#### Problem Statement
 
 By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
 
-### Dataset Description :
+#### Dataset Description :
 
 The data Set has 213451 examples and 15 features + the target variable (country_destination). 2 of the features are ints, 1 is float and 13 are objects.
-Below, I have listed the features with a short description:
+
+##### Below, I have listed the features with a short description:
 
 id: User id
 
